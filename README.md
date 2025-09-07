@@ -96,3 +96,12 @@ jupyter notebook
 
 **Inspiration:** Healthcare-focused ML research
 
+## Author
+- **Abubakar Shabbir**  
+  [GitHub Profile](https://github.com/Abubakar-Shabbir)
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute it with proper attribution.  
+
